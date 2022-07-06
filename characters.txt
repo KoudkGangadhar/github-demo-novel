@@ -1,1 +1,1 @@
-Many agile teams, however, have transitioned to story points. Story points are units OFmeasure for expressing an estimate OFthe overall effort required to fully implement a product backlog item or any other piece OFwork.
+Many Agile teams, however, have transitioned to story points. Story points are units OFmeasure for expressing an estimate OFthe overall effort required to fully implement a product backlog item or any other piece OFwork.
